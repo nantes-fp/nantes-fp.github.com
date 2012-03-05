@@ -5,6 +5,8 @@ layout: page
 
 ## Why functional programming matters
 
+*Le 15 mars à la Cantine de Nantes, de 19h30 à 21h*
+
 Les langages fonctionnels, longtemps restés très académiques, se font leur
 place dans l'industrie grâce à leurs nombreux avantages, en particulier
 vis-à-vis des systèmes distribués. Des langages tels que Scala ou Erlang
