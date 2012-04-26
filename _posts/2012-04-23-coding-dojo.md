@@ -15,7 +15,7 @@ algorithmes fonctionnels.
 Nous vous conseillons d'amener votre machine préférée et de prendre vos
 dispositions pour pouvoir installer quelques compilateurs grâce à votre
 distribution favorite. Si vous avez une JVM, ça suffit pour faire du Scala.
-Pour toucher à Haskell, regardez du côté de GHC.
+Pour toucher à Haskell, regardez du côté de GHC. Pour ocaML, ocaml.
 
 N'hésitez pas à demander sur la mailing list pour avoir des détails.
 
