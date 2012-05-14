@@ -19,4 +19,4 @@ Pour toucher à Haskell, regardez du côté de GHC. Pour ocaML, ocaml.
 
 N'hésitez pas à demander sur la mailing list pour avoir des détails.
 
-Rendez-vous à la Cantine (Impasse Juton) à 19h30 pour *mapper* et *folder* :)
+Rendez-vous à la Cantine (Impasse Juton) à 19h00 pour *mapper* et *folder* :)
