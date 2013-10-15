@@ -4,14 +4,16 @@ title: Nantes FP
 header: Nantes Functional Programming Group
 ---
 
-All levels, all topics.
-Mutable state prohibited.
+Nantes FP est un groupe centré sur la découverte et l'apprentissage de la
+programmation fonctionnelle.
 
-## News
+Des séances sont organisées régulièrement à Nantes autour de sujets divers
+(découverte de haskell, prolog, coq, …).
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Les débutants et ceux ne connaissant pas encore la programmation fonctionnelle
+sont bienvenus et sont accompagnés dans leur découverte.
+
+Pour plus d'informations sur les séances à venir (sujet, date), le plus simple
+est de suivre la liste de diffusion <nantes-fp@googlegroups.com> ou le compte
+twitter [http://twitter.com/nantesfp](@nantesfp)
 
